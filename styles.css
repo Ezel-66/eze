@@ -6,7 +6,7 @@ body{
     padding:0;
 }
 header{
-    background-image:url("header\header.jfif");
+    background-image:url("header.jfif");
     background-size: cover;
     background-position: center;
     color: black;
