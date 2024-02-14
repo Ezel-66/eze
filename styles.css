@@ -6,7 +6,11 @@ body{
     padding:0;
 }
 header{
-    background-image:url("cover/header.jfif");
+    background:linear-gradient(
+to right,
+red,
+orange,
+yellow);
     background-size: cover;
     background-position: center;
     color: black;
