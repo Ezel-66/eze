@@ -17,7 +17,7 @@ yellow);
     font-style: italic;
     text-align: center;
     font-weight: bolder;
-border-radius:60%;
+border-radius:30%;
 border-color:black;
   
 }
@@ -94,4 +94,6 @@ footer{
     opacity: 50%;
 }
 .s3{
-background-color:Hex:#B0E2FF RGB:(176,226,255)HSL:(200°,100%,86%);
+background-color:Hex:#B0E2FF RGB:(176,226,255)HSL:(200°,100%,86%)
+;
+border-radius:30%;}
