@@ -35,14 +35,14 @@ section#animation{
     height: 100px;
     background-color: gold;
     border-radius: 50%;
-    animation: spin 2s infinite linear;
+    animation: spin 2s ease-in-out linear;
     border-color:rgb(13, 5, 5);
 }
 .square{
     width: 100px;
     height: 100px;
     background-color: rgb(11, 10, 10);
-    animation: bounce 2s infinite alternate;
+    animation: bounce 2s ease-in-out alternate;
 }
 
 @keyframes spin{
